@@ -1,4 +1,4 @@
-CREATE TABLE `soujava`.`access` ( \
+CREATE TABLE `exercicio`.`access` ( \
 `idaccess` INT(8) NOT NULL AUTO_INCREMENT, \
 `description` VARCHAR(500) NOT NULL, \
 PRIMARY KEY (`idaccess`));
